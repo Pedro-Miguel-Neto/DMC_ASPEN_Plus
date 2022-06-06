@@ -1,5 +1,7 @@
 # UBE_DMC_ASPENPlus
-A chemical engineering project for the design of a DMC production plant. The process is based on several registered patents and is purely academic.
+A chemical engineering project for the design of a DMC production plant. The process is based on several registered patents and is purely academic. The process was simulated in Aspen Plus.
+
+
 
 Using Aspen+ I was able to calculate the process streams and equipment specs. The ASPEN Plus files should contain the converged results, if not, reset the results and run the simulation. 
 Sometimes you might have to run the simulation more than once due to instabilities of the convergence methods.
